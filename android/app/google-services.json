@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592197979639",
+    "project_id": "kushal-school",
+    "storage_bucket": "kushal-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592197979639:android:8b92411c21b1f0e844f2f2",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592197979639-ghpb54g1911rdh9cr5q8qhsre25fip6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIXjCLCW6mmZX79_-p0QqmcrGV7PTKHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592197979639-ghpb54g1911rdh9cr5q8qhsre25fip6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
